@@ -1,0 +1,23 @@
+# Dependencies
+
+# Arduino IDE
+*.arduino15
+*.vs
+.vscode/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Build artifacts
+build/
+dist/
+*.elf
+*.bin
+*.map
+*.hex
+
+# OS files
+Thumbs.db
+.DS_Store
