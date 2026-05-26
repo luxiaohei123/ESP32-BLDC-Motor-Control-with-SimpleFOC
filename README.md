@@ -2,9 +2,9 @@
 
 [中文说明](./README.zh-CN.md)
 
-An ESP32-based BLDC motor control project using SimpleFOC, a SimpleFOC mini 3PWM driver board, a 2804 gimbal motor, and an AS5600 magnetic encoder.
+An ESP32-based BLDC motor control project using SimpleFOC, a SimpleFOC mini 3PWM driver board, a 2804 gimbal motor,and an AS5600 magnetic encoder.
 
-This repository documents a small but complete motor-control bring-up workflow: sensor validation, open-loop motor testing, and closed-loop velocity control.
+This repository documents a small but complete motor-control bring-up workflow: sensor validation, open-loop motor testing,and closed-loop velocity control.
 
 ![Wiring diagram](./docs/wiring-diagram.png)
 
